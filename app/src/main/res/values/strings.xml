@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Latihan Room</string>
+    <string name="name">Name</string>
+    <string name="nim_mahasiswa">Nim Mahasiswa</string>
+    <string name="input_name">Input Name</string>
+    <string name="input_nim">Input NIM</string>
+    <string name="input_semester">Input Semester</string>
+    <string name="save_data">Save Data</string>
+</resources>
